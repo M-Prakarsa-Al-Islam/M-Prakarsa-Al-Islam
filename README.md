@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm glad you're here 👋
 
-<!--
-**M-Prakarsa-Al-Islam/M-Prakarsa-Al-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast focused on **Computer Networking**, **System Administration**, and the foundations of **Cloud and DevOps**. I enjoy exploring how systems connect, communicate, and scale — and I'm always building toward a deeper, practical understanding of modern infrastructure.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Currently Working On:
+- Managing Ubuntu servers and experimenting with **Docker** and **load balancing**
+- Gaining a solid grasp of **network protocols**, IP addressing, and CCNA-level networking concepts
+- Learning to script and automate tasks to improve efficiency and reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 My Learning Mindset:
+I'm someone who learns best by **doing, testing, and troubleshooting**. I ask questions, break things and fix them. Whether it's configuring a system or optimizing a setup, I aim to understand the *why* behind the *how*.
+
+### 🛠️ Tools & Technologies I Use:
+- **OS**: Ubuntu, Windows
+- **Tools**: Docker, Git, VirtualBox
+- **Languages**: Python, Bash
+- **Topics**: Networking (CCNA), System Admin, Scripting, Linux Services, AWS Services
+
+---
+
+📫 Let’s connect!  
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/m-prakarsa-al-islam)  
+I’m always open to learning opportunities, discussions, and collaborations.
